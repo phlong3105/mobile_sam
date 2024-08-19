@@ -3,12 +3,12 @@ hostname    : ~
 config      : ~
 arch        : "mobile_sam"
 model       : "mobile_sam_vit_t"
-data        : ~
+data        : "sa_1b"
 data_dir    : ~
 root        : ~
 project     : ~
 variant     : ~
-fullname    : ~
+fullname    : "mobile_sam_vit_t_sa_1b"
 save_dir    : ~
 weights     : "zoo/vision/segment/mobile_sam/mobile_sam_vit_t/sa_1b/mobile_sam_vit_t_sa_1b.pt"
 device      : 0
